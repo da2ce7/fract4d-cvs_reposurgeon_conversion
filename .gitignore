@@ -1,0 +1,7 @@
+
+*.log
+*.cvs
+*.fi
+*.fo
+/*-git/
+/*-mirror/
